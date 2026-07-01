@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6v0589/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0589/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成佛之道
+  identifiers:
+    krp: KR6v0589
+    cbeta: Y12n0012
+    cbeta_old_id: Y12n0012
+    authorityid: CA0008331
+    json_key: Y0012
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y12/Y12n0012.xml
+    old_id: Y12n0012
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0589_000-Y.yaml, hash: 'sha256:c5cb80bbabfa948dcbade04ce0486266a9465432804ccbc0427f4324cdc34f1e'}
+  - {seq: 1, filename: KR6v0589_001-Y.yaml, hash: 'sha256:9ef2683fedbe0260cb43d35956c2815e8457240ae1313999afc0a6ea09d1e926'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0589_000-Y.markers.yaml, hash: 'sha256:15b8f96c13c38314fe625088e638f91943b9b5d908420d7a7dfdabd423130b2d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0589_001-Y.markers.yaml, hash: 'sha256:04f365180a41a4ba9b63aa79ff071323c6214f55a5123cdb56d8d3726173c3cc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0589_Y_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0589_Y_000-mulu-2
+    span:
+    - front
+    - 1641
+    - 1641
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0589_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 141230
+  label: 成佛之道
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0589_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一章　歸敬三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0589_Y_001-mulu-2
+    span:
+    - body
+    - 11145
+    - 11145
+  label: 第二章　聞法趣入
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0589_Y_001-mulu-3
+    span:
+    - body
+    - 18462
+    - 18462
+  label: 第三章　五乘共法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0589_Y_001-mulu-4
+    span:
+    - body
+    - 41559
+    - 41559
+  label: 第四章　三乘共法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0589_Y_001-mulu-5
+    span:
+    - body
+    - 81473
+    - 81473
+  label: 第五章　大乘不共法
+  type: mulu
+  level: 1
+hash: sha256:401695b6921814fd3c67adc227d6281cadab7bd7ee78673afcdf86e5a4de1e54
