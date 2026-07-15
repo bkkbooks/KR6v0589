@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0589/v1
 canonical_location: https://kanripo.org/bkk/KR6v0589/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 成佛之道
   source:
@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0589_000.yaml, hash: 'sha256:c5cb80bbabfa948dcbade04ce0486266a9465432804ccbc0427f4324cdc34f1e'}
-  - {seq: 1, filename: KR6v0589_001.yaml, hash: 'sha256:9ef2683fedbe0260cb43d35956c2815e8457240ae1313999afc0a6ea09d1e926'}
+  - {seq: 0, filename: KR6v0589_000.yaml, hash: 'sha256:1862569ec3ad20d5d9f16c932452e9d3cd28585aab2ce71e79672b54e109a7d7'}
+  - {seq: 1, filename: KR6v0589_001.yaml, hash: 'sha256:20c24af1f72149142f474e0437371933b4b1a9ee906c58882948c1e9fbb94eaf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0589_000.markers.yaml, hash: 'sha256:44ce9b484dde7e461de4cc27d866e70a1d07f2500f11288eab5dfd8e3b397bbc'}
-  - {seq: 1, role: markers, filename: assets/KR6v0589_001.markers.yaml, hash: 'sha256:357aadcd465f2607417875f081535c2ec2ad1937a3551beb33de1889990880b4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0589_000.markers.yaml, hash: 'sha256:ecc5c6c12a45f66a8c5fda2ff67af23869e364c91c4bd4c4f680f1b150983fd5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0589_001.markers.yaml, hash: 'sha256:963a00926a4d5ce7516879ecf1c491c7a6e948ade13a6563bec9151df52008f3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -104,4 +104,7 @@ table_of_contents:
   label: 第五章　大乘不共法
   type: mulu
   level: 1
-hash: sha256:7ab2d4b538e714749ee71bc941d1497e87af4f5ebe18d01523cd5c9a27d02c0b
+hash: sha256:5f60cc631a4756e83dd956b633cd30c00685d306f3b1cc3889fc01855064b54a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
