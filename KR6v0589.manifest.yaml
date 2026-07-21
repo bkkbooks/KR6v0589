@@ -18,17 +18,17 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0589_000.yaml, hash: 'sha256:1862569ec3ad20d5d9f16c932452e9d3cd28585aab2ce71e79672b54e109a7d7'}
+  - {seq: 0, filename: KR6v0589_000.yaml, hash: 'sha256:c29a21875229882ed1a1c4c2de927fbf7f57a94e56815200796f76c67d97f62c'}
   - {seq: 1, filename: KR6v0589_001.yaml, hash: 'sha256:20c24af1f72149142f474e0437371933b4b1a9ee906c58882948c1e9fbb94eaf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0589_000.markers.yaml, hash: 'sha256:ecc5c6c12a45f66a8c5fda2ff67af23869e364c91c4bd4c4f680f1b150983fd5'}
+  - {seq: 0, role: markers, filename: assets/KR6v0589_000.markers.yaml, hash: 'sha256:af511e2c7ee416121d4d9c08ca0d96487e97ff383477ea3d4aac276369ad8691'}
   - {seq: 1, role: markers, filename: assets/KR6v0589_001.markers.yaml, hash: 'sha256:dc103c1d8cd3a453b1ec93f73a5d46b7c6125920756f82e9f421859846c357c6'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0589_Y_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 自序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0589_Y_000-mulu-2
     span:
-    - front
+    - body
     - 1641
     - 1641
   label: 偈頌
@@ -104,7 +104,7 @@ table_of_contents:
   label: 第五章　大乘不共法
   type: mulu
   level: 1
-hash: sha256:a478e6cfa8df3f05f573ac7ecaad80ceb0e8e1dfb73bcf2f43a60e30e000a26a
+hash: sha256:c8186e07cb36ece3359ad6e1c63a3977778b3a55b61b486bb7c2f2f89004969f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
